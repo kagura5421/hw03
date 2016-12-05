@@ -1,0 +1,21 @@
+body{
+    background-image: url("Ink.jpg"); 
+}
+
+.col{
+    width: 30%;
+    height: 300px;
+    background: blue;
+    display: inline-block;
+    margin: 30px 5px;
+}
+.bottom{
+    
+}
+*{
+    box-sizing: border-box;
+}
+.all{
+    width: 30%;
+    margin: auto;
+}
