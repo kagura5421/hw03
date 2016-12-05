@@ -1,0 +1,11 @@
+p.dotted {
+    border:50px solid lightgreen;
+    
+    
+    width: 0px;
+    height: 0px;
+    border-top:50px solid green;
+    border-bottom:50px solid blue;
+    border-right:50px solid red;
+    border-left:50px solid yellow;
+}
