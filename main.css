@@ -1,4 +1,4 @@
-p.dotted {
+div.dotted {
     border:50px solid lightgreen;
     
     
@@ -9,3 +9,23 @@ p.dotted {
     border-right:50px solid red;
     border-left:50px solid yellow;
 }
+div.top{
+    background: lightgreen;
+    width:200px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left:100px; 
+    border: 5px solid green;
+    border-bottom: 5px dotted green;
+    border-top:5px double green;
+}
+div.bottom{
+    background: lightgreen;
+    width:150px;
+    height: 200px;
+    margin-left: 125px;
+    border: 5px solid green;
+    border-top: 0px;
+}
+ 
+  
